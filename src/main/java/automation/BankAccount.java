@@ -1,3 +1,5 @@
+package automation;
+
 public class BankAccount {
     private int accountBalance;
 
