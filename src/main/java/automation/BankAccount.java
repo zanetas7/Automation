@@ -28,7 +28,7 @@ public boolean withdraw(int amount){
     }
 
     public int getAccountBalance() {
-        return this.accountBalance;
+        return accountBalance;
     }
 }
 
